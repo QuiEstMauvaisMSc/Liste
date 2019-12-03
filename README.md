@@ -1,4 +1,4 @@
-# Qui-est-mauvais
+# Liste de la MSc
 Zacharia Chahbi
 
 Basile Drabo
