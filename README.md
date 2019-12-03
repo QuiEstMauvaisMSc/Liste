@@ -16,8 +16,6 @@ Gauthier Fernandez
 
 Oussama Ouzine
 
-Fabrice Lefebvre
-
 Thomas Marchal
 
 Brandon Welsche
